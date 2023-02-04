@@ -8,7 +8,7 @@ This repository contains the code for a simple website that showcases a list of 
 ### Getting Started
 1. Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/[your-username]/example-website.git
+git clone https://github.com/abhisheksharm-3/Prac-3.git
 ```
 2. Open the repository in your text editor.
 
@@ -21,5 +21,5 @@ git clone https://github.com/[your-username]/example-website.git
 Abhishek Sharma
 
 ### Acknowledgments
-[CSS Tricks](https://css-tricks.com/)
-[W3Schools](https://www.w3schools.com/)
+- [CSS Tricks](https://css-tricks.com/)
+- [W3Schools](https://www.w3schools.com/)
